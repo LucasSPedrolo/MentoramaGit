@@ -1,4 +1,4 @@
-próprios# Numeros naturais
+#próprios Numeros naturais
   Nesse projeto eu inicio meu aprendizado sobre GitHub e criação de módulos
 
 ## Como instalar
