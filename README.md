@@ -1,5 +1,5 @@
-próprios# Numeros naturais
-  Nesse projeto eu inicio meu aprendizado sobre GitHub e criação de módulos
+# Numeros naturais
+  Nesse projeto eu inicio meu aprendizado sobre GitHub e criação de módulos próprios
 
 ## Como instalar
   para instalar é necessário utilizar git clone https://github.com/LucasSPedrolo/MentoramaGit.git
